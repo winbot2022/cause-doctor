@@ -4,7 +4,7 @@ import streamlit as st
 
 def inject_ga():
     # GA4の測定IDをここに貼り付けてください
-    GA_ID = "" 
+    GA_ID = "G-PVGL652YQE" 
 
     # GA4のタグ（JavaScript）
     GA_JS = f"""
